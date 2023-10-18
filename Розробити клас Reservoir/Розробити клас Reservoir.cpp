@@ -18,7 +18,7 @@ protected:
 	int ID;
 	string name;
    	static int count;
-	
+	string tmp;
 public:
 
 	Reservoir()  {
